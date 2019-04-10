@@ -2,10 +2,10 @@
 echo '<footer class="footer has-background-white">
    <div class="content has-text-centered">
       <p class="center-img image is-32x32">
-      <img class="is-rounded" src="/src/av.png">
+      <img class="is-rounded" src="src/av.png">
       </p>
       <p>
-         Developed by <strong>Alexandr Pogodin</strong>.
+         Developed by <a href="https://github.com/AlexandrPogodin" target="_blank"><strong><i class="fab fa-github"></i>AlexandrPogodin</strong></a>.
       </p>
       <div class="columns is-centered">
          <div class="column is-6 has-text-centered">
